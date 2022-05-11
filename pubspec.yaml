@@ -63,6 +63,7 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - imagens/logo_teste.png
+    - imagens/print-tela.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
